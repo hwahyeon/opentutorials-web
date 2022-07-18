@@ -1,6 +1,7 @@
 # 생활코딩 WEB 강좌
 
-생활코딩 WEB 강좌를 들으며 만든 결과물을 저장한 Repository
+생활코딩 [WEB 강좌](https://opentutorials.org/course/3083)를 들으며 만든 결과물을 저장한 Repository.
+
 
 |ID|제목|학습 내용|완료|
 |:---|:---|:---|:---:|
