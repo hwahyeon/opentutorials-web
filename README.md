@@ -5,7 +5,7 @@
 
 |ID|제목|학습 내용|완료|
 |:---|:---|:---|:---:|
-|001|[WEB1 - HTML & Internet]()|[강의 소개]()<br>· |○|
+|001|[WEB1 - HTML & Internet](https://github.com/hwahyeon/Web_Open/tree/main/WEB1%20-%20HTML%20%26%20Internet)|[강의 소개](https://opentutorials.org/course/3084)<br>· |○|
 |002|[WEB2 - CSS]()|[강의 소개]()<br>· ||
 |003|[WEB3 - React]()|[강의 소개]()<br>· ||
 |004|[WEB3 - Redux]()|[강의 소개]()<br>· ||
