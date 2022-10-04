@@ -12,7 +12,6 @@
 | 006 | [WEB3 - Ajax]()                                                                                           | [강의 소개](https://opentutorials.org/course/3281)<br>·      |      |
 | 004 | [WEB3 - Facebook Login]()                                                                                 | [강의 소개](https://opentutorials.org/course/3423)<br>·      |      |
 | 004 | [WEB3 - Google Login]()                                                                                   | [강의 소개](https://opentutorials.org/course/3424)<br>·      |      |
-
 | 004 | [WEB3 - p5.js]() | [강의 소개](https://opentutorials.org/course/4659)<br>· | |
 | 005 | [WEB2 - Node.js]() | [강의 소개](https://opentutorials.org/course/3332)<br>· | |
 | 005 | [WEB3 - Node.js - Express]() | [강의 소개](https://opentutorials.org/course/3370)<br>· | |
