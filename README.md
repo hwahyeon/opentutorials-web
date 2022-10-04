@@ -6,7 +6,7 @@
 | :-- | :--- | :-------- | :--- | :-- | :-- | :-- | :-------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------- | :-: |
 | 001 |[HTML & Internet](https://github.com/hwahyeon/Web_Open/tree/main/WEB1%20-%20HTML%20%26%20Internet)|| |   |   |   | | [강의 소개](https://opentutorials.org/course/3084)<br>· HTML |  ○  |
 | 002 |      |[CSS](https://github.com/hwahyeon/Web_Open/tree/main/WEB2%20-%20CSS) |      |     |     |     |  | [강의 소개](https://opentutorials.org/course/3086)<br>· CSS  |  ○  |
-| 003 |      |[JavaScript]()|      |     |     |     |  | [강의 소개](https://opentutorials.org/course/3085)<br>·      |
+| 003 |      |[JavaScript](https://github.com/hwahyeon/Web_Open/tree/main/WEB2%20-%20JavaScript)|      |     |     |     |  | [강의 소개](https://opentutorials.org/course/3085)<br>·      |
 | 003 |      |           |[React]()|     |     |     |  | [강의 소개]()<br>·                                           |     |
 | 004 |      |           |[Redux]()|     |     |     | | [강의 소개]()<br>·                                           |     |
 | 006 |      |           |[Ajax]()|     |     |     |    | [강의 소개](https://opentutorials.org/course/3281)<br>·      |     
