@@ -15,3 +15,4 @@
 | 004 |      |           |[p5.js]()|     |     |     |   |[강의 소개](https://opentutorials.org/course/4659)<br>·      |     |
 | 005 |      |[Node.js]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3332)<br>·      |     |
 | 005 |      |           |[Node.js - Express]()|     |     |     |     |[강의 소개](https://opentutorials.org/course/3370)<br>·      |     |
+| 005 |      |[Python]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3256)<br>·      |     |
