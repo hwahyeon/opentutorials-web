@@ -16,3 +16,5 @@
 | 005 |      |[Node.js]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3332)<br>·      |     |
 | 005 |      |           |[Node.js - Express]()|     |     |     |     |[강의 소개](https://opentutorials.org/course/3370)<br>·      |     |
 | 005 |      |[Python]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3256)<br>·      |     |
+| 005 |      |[OAuth 2.0]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3405)<br>· OAuth|     |
+
