@@ -9,7 +9,7 @@
 |003||[JavaScript](https://github.com/hwahyeon/Web_Open/tree/main/WEB2%20-%20JavaScript)||||||[강의 소개](https://opentutorials.org/course/3085)<br>· JavaScript|○|
 | 004 |      |           |[React]()|     |     |     |  |[강의 소개]()<br>·                                           |     |
 | 004 |      |           |[Redux]()|     |     |     | |[강의 소개]()<br>·                                           |     |
-| 006 |      |           |[Ajax]()|     |     |     |    |[강의 소개](https://opentutorials.org/course/3281)<br>·      |     
+| 006 |||[Ajax]()|||||[강의 소개](https://opentutorials.org/course/3281)<br>· Ajax||   
 | 004 |      |           |[Facebook Login]() |     |     |     | |[강의 소개](https://opentutorials.org/course/3423)<br>·      |     |
 | 004 |      |           |[Google Login]()|     |     |     | |[강의 소개](https://opentutorials.org/course/3424)<br>·      |     |
 | 004 |      |           |[p5.js]()|     |     |     |   |[강의 소개](https://opentutorials.org/course/4659)<br>·      |     |
