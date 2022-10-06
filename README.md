@@ -14,8 +14,11 @@
 | 004 |      |           |[Google Login]()|     |     |     | |[강의 소개](https://opentutorials.org/course/3424)<br>·      |     |
 | 004 |||[p5.js](https://github.com/hwahyeon/Web_Open/tree/main/WEB3%20-%20p5.js)|||||[강의 소개](https://opentutorials.org/course/4659)<br>· p5.js|○|
 | 005 |      |[Node.js]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3332)<br>·      |     |
-| 005 |      ||[Node.js - MySQL] ()   |     |     |     |          |[강의 소개](https://opentutorials.org/course/3347)<br>·      |     |
+| 005 |      ||[Node.js - MySQL]()   |     |     |     |          |[강의 소개](https://opentutorials.org/course/3347)<br>·      |     |
 | 005 |      |           |[Node.js - Express]()|     |     |     |     |[강의 소개](https://opentutorials.org/course/3370)<br>·      |     |
+| 005 |      |           ||[Node.js - 쿠키와 인증]()|     |     |     |[강의 소개](https://opentutorials.org/course/3387)<br>·      |     |
+| 005 |      |           ||[세션과 인증]()|     |     |     |[강의 소개](https://opentutorials.org/course/3400)<br>·      |     |
+| 005 |      |           |||[Passport.js]()| |    |[강의 소개](https://opentutorials.org/course/3400)<br>·      |     |
 | 005 |      |[Python]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3256)<br>·      |     |
 | 005 |      ||[Django Web Framework]()|     |     |     |          |[강의 소개](https://opentutorials.org/course/4886)<br>·      |     |
 | 005 |      ||[Flask Web Framework]()|     |     |     |          |[강의 소개](https://opentutorials.org/course/4904)<br>·      |     |
