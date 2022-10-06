@@ -17,5 +17,10 @@
 | 005 |      ||[Node.js - MySQL] ()   |     |     |     |          |[강의 소개](https://opentutorials.org/course/3347)<br>·      |     |
 | 005 |      |           |[Node.js - Express]()|     |     |     |     |[강의 소개](https://opentutorials.org/course/3370)<br>·      |     |
 | 005 |      |[Python]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3256)<br>·      |     |
+| 005 |      ||[Django Web Framework]()|     |     |     |          |[강의 소개](https://opentutorials.org/course/4886)<br>·      |     |
+| 005 |      ||[Flask Web Framework]()|     |     |     |          |[강의 소개](https://opentutorials.org/course/4904)<br>·      |     |
+| 005 |      |[Home server]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3265)<br>· Router<br>· NAT<br>· Port forwarding|     |
+| 005 |      |[Domain Name System]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3276)<br>· DNS<br>· nslookup|     |
+| 005 |      |[HTTP]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3385)<br>· HTTP|     |
 | 005 |      |[OAuth 2.0]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3405)<br>· OAuth|     |
 
