@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Speedy</title>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.2/p5.min.js"
+            integrity="sha512-rCZdHNB0AePry6kAnKAVFMRfWPmUXSo+/vlGtrOUvhsxD0Punm/xWbEh+8vppPIOzKB9xnk42yCRZ5MD/jvvjQ=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        ></script>
+    </head>
+    <body>
+        <script>
+            function setup() {
+                createCanvas(windowWidth, windowHeight);
+                background(220);
+            }
+
+            function draw() {
+                // line(pmouseX, pmouseY, mouseX, mouseY)
+                px = pow(mouseX - pmouseX, 2);
+                py = pow(mouseY - pmouseY, 2);
+                speed = sqrt(px + py);
+                circle(mouseX, mouseY, speed);
+                //   피타고라스
+            }
+
+            function mousePressed() {
+                background(random(255), random(255), random(255));
+            } //클릭 누르고 있는 거 말고
+        </script>
+    </body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Highway</title>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.2/p5.min.js"
+            integrity="sha512-rCZdHNB0AePry6kAnKAVFMRfWPmUXSo+/vlGtrOUvhsxD0Punm/xWbEh+8vppPIOzKB9xnk42yCRZ5MD/jvvjQ=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        ></script>
+    </head>
+    <body>
+        <script>
+            // setup 함수는 1회 최초 실행
+            // draw 함수는 애니메이션 효과를 위함. 아주 빨리 실행됨.
+            function setup() {
+                createCanvas(400, 400);
+                background("gray");
+                fill(255, 204, 0, 100);
+                strokeWeight(0);
+            }
+
+            function draw() {
+                circle(random(400), random(400), random(100));
+                // random(400) -> 0~400
+            }
+        </script>
+    </body>
+</html>

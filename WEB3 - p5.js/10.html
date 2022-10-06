@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Background</title>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.2/p5.min.js"
+            integrity="sha512-rCZdHNB0AePry6kAnKAVFMRfWPmUXSo+/vlGtrOUvhsxD0Punm/xWbEh+8vppPIOzKB9xnk42yCRZ5MD/jvvjQ=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        ></script>
+    </head>
+    <body>
+        <script>
+            function setup() {
+                createCanvas(windowWidth, windowHeight);
+                background(220);
+                textSize(30);
+                textAlign(RIGHT);
+            }
+
+            function draw() {
+                // if(mouseIsPressed){
+                //   background(random(255), random(255), random(255))
+                // } // 클릭 누르고 있어도 동작
+                text("Click!", windowWidth / 2, windowHeight / 2);
+            }
+
+            function mousePressed() {
+                background(random(255), random(255), random(255));
+            } //클릭 누르고 있는 것엔 동작 안함
+        </script>
+    </body>
+</html>
