@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <article></article>
+        <input
+            type="button"
+            value="fetch"
+            onclick="
+            // fetch('css').then(function(response){
+            //     response.text().then(function(text){
+            //         document.querySelector('article').innerHTML = text;
+            //     })
+            // })
+            fetch('html').then(function(response){
+                if(response.status == '404'){
+                    alert('Not found')
+                    }
+                });
+            "
+        />
+        <!-- fetch('html') html파일을 서버에 요청
+
+        서버가 적당한 데이터를 꺼내서 응답을 해주는데 이때 시간이 걸린다. 서버가 응답할 때까지 다른 일을 할 수 있게 하는 것이 then
+        
+        fetch('html').then(function);
+        fetch가 응답이 끝나면 함수를 실행시키라는 뜻. 
+
+        fetch('html').then(function);
+        console.log(1)
+        console.log(2)
+        이런 경우 1, 2가 출력되고 function이 실행될 수 있다. 즉, Asynchronous로 실행됨. (fetch가 실행되고 있는 도중에 다른 것이 실행되는 것) 
+            
+        fetch는 response 객체를 주면서 실행한다.
+        response의 status의 속성 -> 200 / 404 등으로 요청 상황을 판단할 수 있다.
+        -->
+    </body>
+</html>
