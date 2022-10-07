@@ -19,7 +19,7 @@
 | 005 |      |           ||[Node.js - 쿠키와 인증]()|     |     |     |[강의 소개](https://opentutorials.org/course/3387)<br>·      |     |
 | 005 |      |           ||[세션과 인증]()|     |     |     |[강의 소개](https://opentutorials.org/course/3400)<br>·      |     |
 | 005 |      |           |||[Passport.js]()| |    |[강의 소개](https://opentutorials.org/course/3400)<br>·      |     |
-| 019 |      |[Python]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3256)<br>·      |     |
+|019||[Python]()||||||[강의 소개](https://opentutorials.org/course/3256)<br>· Python<br>· Pypi||
 | 020 |      ||[Django Web Framework]()|     |     |     |          |[강의 소개](https://opentutorials.org/course/4886)<br>·      |     |
 | 021 |      ||[Flask Web Framework]()|     |     |     |          |[강의 소개](https://opentutorials.org/course/4904)<br>·      |     |
 | 024 |      |[Home server]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3265)<br>· Router<br>· NAT<br>· Port forwarding|     |
