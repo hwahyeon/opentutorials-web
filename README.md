@@ -24,6 +24,6 @@
 | 021 |      ||[Flask Web Framework]()|     |     |     |          |[강의 소개](https://opentutorials.org/course/4904)<br>·      |     |
 | 024 |      |[Home server]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3265)<br>· Router<br>· NAT<br>· Port forwarding|     |
 | 025 |      |[Domain Name System]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3276)<br>· DNS<br>· nslookup|     |
-| 026 |      |[HTTP]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3385)<br>· HTTP|     |
-| 027 |      |[OAuth 2.0]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3405)<br>· OAuth|     |
+|026||HTTP||||||[강의 소개](https://opentutorials.org/course/3385)<br>· HTTP|○<br> 블로그에 정리|
+| 027|      |[OAuth 2.0]()|      |     |     |     |          |[강의 소개](https://opentutorials.org/course/3405)<br>· OAuth|     |
 
