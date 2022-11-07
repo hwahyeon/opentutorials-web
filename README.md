@@ -1,7 +1,7 @@
 # 생활코딩 WEB 강좌
 
 - 본 Repository는 생활코딩 [WEB 강좌](https://opentutorials.org/course/3083)의 학습 결과물을 저장한 Repository이다.
-- WEBn 강좌에 포함되지는 아니하나 WEBn과 관련한 수업은 강좌명 뒤에 \*를 표기하며, WEBn의 수준은 재량에 따라 위치시킨다.
+- WEB 강좌에 포함되지는 아니하나 WEB과 관련한 수업은 강좌명 뒤에 \*를 표기하며, WEB n의 수준은 재량에 따라 위치시킨다.
 
 |ID|WEB1|WEB2|WEB3|WEB4|WEB5|WEB6|WEB7|학습 내용|완료|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---|:-:|
