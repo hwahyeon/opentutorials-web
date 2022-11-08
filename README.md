@@ -1,7 +1,9 @@
 # 생활코딩 WEB 강좌
 
 - 본 Repository는 생활코딩 [WEB 강좌](https://opentutorials.org/course/3083)의 학습 결과물을 저장한 Repository이다.
-- WEB 강좌에 포함되지는 아니하나 WEB과 관련한 수업은 강좌명 뒤에 \*를 표기하며, WEB n의 수준은 기본적으로 [학습 지도](https://seomal.com/map)를 따르나 재량을 더 앞세운다.
+- WEB 강좌에 포함되지는 아니하나 WEB과 관련한 수업은 아래를 따른다.
+  - 강좌명 뒤에 \*를 표기하여 구분한다.
+  - 이들의 WEB n 수준(1~7)은 [학습 지도](https://seomal.com/map)를 바탕으로 재량껏 부여한다.
 
 |ID|WEB1|WEB2|WEB3|WEB4|WEB5|WEB6|WEB7|학습 내용|완료|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---|:-:|
