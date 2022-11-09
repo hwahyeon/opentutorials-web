@@ -10,7 +10,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---|:-:|
 |001|[HTML & Internet](https://github.com/hwahyeon/Web_Open/tree/main/WEB1%20-%20HTML%20%26%20Internet)|||||||[강의 소개](https://opentutorials.org/course/3084)<br>· HTML |○|
 |002||[CSS](https://github.com/hwahyeon/Web_Open/tree/main/WEB2%20-%20CSS)||||||[강의 소개](https://opentutorials.org/course/3086)<br>· CSS|○|
-|003||[JavaScript](https://github.com/hwahyeon/Web_Open/tree/main/WEB2%20-%20JavaScript)|callback function*<br>Promise (then, catch)*<br>|||||[강의 소개](https://opentutorials.org/course/3085)<br>· JavaScript|○|
+|003||[JavaScript](https://github.com/hwahyeon/Web_Open/tree/main/WEB2%20-%20JavaScript)|callback function*<br>Promise (then, catch)*|new Promise*||||[강의 소개](https://opentutorials.org/course/3085)<br>· JavaScript|○|
 |004|||[JavaScript Immutability]()*|||||[강의 소개](https://opentutorials.org/course/4075)<br>· JavaScript<br>· Immutability||
 | 004 |      |           |[React]()|     |     |     |  |[강의 소개]()<br>·                                           |     |
 | 004 |      |           ||[MUI v5 (Material-ui)]()*|     |     |  |[강의 소개]()<br>·                                           |     |
