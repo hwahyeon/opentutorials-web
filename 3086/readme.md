@@ -1,8 +1,9 @@
 # WEB2 - CSS
 
-[실행하기](https://hwahyeon.github.io/Web_Open/WEB2%20-%20CSS/1.html)
+## Key Topics
+- CSS
+- Grid
+- MediaQuery
 
-### 학습
-* CSS
-* Grid
-* MediaQuery
+## Resources
+[Lecture Link](https://opentutorials.org/course/3086)
