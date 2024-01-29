@@ -1,7 +1,8 @@
 # WEB1 - HTML & Internet
 
-[실행하기](https://hwahyeon.github.io/Web_Open/WEB1%20-%20HTML%20&%20Internet/index.html)
+## Key Topics
+- HTML
+- Internet and Web
 
-### 학습 목적
-* HTML
-* 웹 서버 동작 개념
+## Resources
+[Lecture Link](https://opentutorials.org/course/3084)
