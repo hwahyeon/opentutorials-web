@@ -6,12 +6,12 @@
 ### HTML & Internet
 |ID|Level|Course Name|Learning Content|Link|Completed|
 |:---:|:---:|:---|:---|:---:|:---:|
-|3084|WEB1|HTML & Internet|Basics of HTML<br/>Internet|[Link](./3084)|✔️|
+|3084|WEB1|**HTML & Internet**|Basics of HTML<br/>Internet|[Link](./3084)|✔️|
 
 ### CSS
 |ID|Level|Course Name|Learning Content|Link|Completed|
 |:---:|:---:|:---|:---|:---:|:---:|
-|3086|WEB2|CSS|Basics of CSS|[Link](./3086)|✔️|
+|3086|WEB2|**CSS**|Basics of CSS|[Link](./3086)|✔️|
 |2737||Semantic UI|[Link]()||
 
 ### JavaScript
