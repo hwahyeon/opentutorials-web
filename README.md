@@ -23,12 +23,12 @@
 ### Home server
 |ID|Level|Course Name|Learning Content|Link|Completion Status|
 |:---:|:---:|:---|:---|:---:|:---:|
-|3265|Home server|HTTP|router <br/> NAT <br/> port forwarding <br/> DHCP|No Link||
+|3265|WEB2|Home server|router <br/> NAT <br/> port forwarding <br/> DHCP|No Link||
 
 ### Domain Name System
 |ID|Level|Course Name|Learning Content|Link|Completion Status|
 |:---:|:---:|:---|:---|:---:|:---:|
-|3276|Domain Name System|HTTP|IP and host <br/> DNS Record/CNAME Record|No Link||
+|3276|WEB2|Domain Name System|IP and host <br/> DNS Record/CNAME Record|No Link||
 
 ### HTTP
 |ID|Level|Course Name|Learning Content|Link|Completion Status|
