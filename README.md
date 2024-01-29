@@ -41,6 +41,11 @@
 |:---:|:---:|:---|:---|:---:|:---:|
 |3405|WEB2|OAuth 2.0|Token|No Link||
 
+### Standalone courses
+|ID|Level|Course Name|Learning Content|Link|Completed|
+|:---:|:---:|:---|:---|:---:|:---:|
+|5063|WEB4|GraphQL||No Link||
+
 ### Database
 |ID|Level|Course Name|Learning Content|Link|Completed|
 |:---:|:---:|:---|:---|:---:|:---:|
