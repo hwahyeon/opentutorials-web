@@ -8,11 +8,11 @@
 |:---:|:---:|:---|:---|:---:|:---:|
 |3084|WEB1|**HTML & Internet**|Basics of HTML<br/>Internet|[Link](./3084)|✔️|
 
-### CSS
+### CSS / UI library
 |ID|Level|Course Name|Learning Content|Link|Completed|
 |:---:|:---:|:---|:---|:---:|:---:|
 |3086|WEB2|**CSS**|Basics of CSS|[Link](./3086)|✔️|
-|2737||Semantic UI|[Link]()||
+|2737|WEB3|**Semantic UI**|No Link|✔️|
 
 ### JavaScript
 |ID|Level|Course Name|Learning Content|Link|Completed|
