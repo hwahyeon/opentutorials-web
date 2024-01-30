@@ -28,7 +28,7 @@
 |3276|WEB2|Domain Name System|IP and host <br/> DNS Record/CNAME Record|No Link||
 |3385|WEB2|HTTP|· Request / Response message|No Link|✔️|
 |3405|WEB2|OAuth 2.0|Token|No Link||
-|4044|WEB2|**npm**|· Introduction of npm<br/>· CLI|No Link|✔️|
+|4044|WEB2|**npm**|· Introduction of npm|No Link|✔️|
 
 ### Standalone courses
 |ID|Level|Course Name|Learning Content|Link|Completed|
