@@ -26,9 +26,10 @@
 |:---:|:---:|:---|:---|:---:|:---:|
 |3265|WEB2|Home server|router <br/> NAT <br/> port forwarding <br/> DHCP|No Link||
 |3276|WEB2|Domain Name System|IP and host <br/> DNS Record/CNAME Record|No Link||
-|3385|WEB2|HTTP|· Request / Response message|No Link|✔️|
+|3385|WEB2|**HTTP**|· Request / Response message|No Link|✔️|
 |3405|WEB2|OAuth 2.0|Token|No Link||
 |4044|WEB2|**npm**|· Introduction of npm|No Link|✔️|
+|4566|WEB3|**Webpack**|· Introduction of Webpack|No Link||
 
 ### Standalone courses
 |ID|Level|Course Name|Learning Content|Link|Completed|
