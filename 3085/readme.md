@@ -1,6 +1,6 @@
 # WEB2 - JavaScript
 
-## Key Topics
+## Key Topic
 - JavaScript
 
 ## Resources
