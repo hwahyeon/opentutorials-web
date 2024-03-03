@@ -18,7 +18,7 @@
 |ID|Level|Course Name|Learning Content|Link|Completed|
 |:---:|:---:|:---|:---|:---:|:---:|
 |3085|WEB2|**JavaScript**|· JavaScript|[Link](./3085)|✔️|
-|3281|WEB3|Ajax|· Basics of Ajax|[Link]|✔️|
+|3281|WEB3|Ajax|· Basics of Ajax|[Link](./3281)|✔️|
 |4659|WEB3|**p5.js**|· Basics of p5.js|[Link](./4659)|✔️|
 
 ### Web
